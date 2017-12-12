@@ -2,8 +2,8 @@
 //  main.cpp
 //  RadixTest
 //
-//  Created by JFRE74708 on 2017-11-22.
-//  Copyright © 2017 JFRE74708. All rights reserved.
+//  Created by Will Pringle on 2017-11-22.
+//  Copyright © 2017 Will Pringle. All rights reserved.
 //
 
 #include <vector>
